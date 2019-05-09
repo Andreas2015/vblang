@@ -3,13 +3,15 @@ Features Added in VB Language Versions
 
 *NOTE:* See how to [specify the language version for your project here](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/configure-language-version)
 # VB 14.0 (Visual Studio 2015)
-- Null-Propagating Operator (?. operator)
+- Null-propagating operator (?. operator)
 - NameOf
-- String Interpolation
-- Multiline String Literals
+- String interpolation
+- Multiline string literals
 - Readonly Auto-properties
 - Comments in multiline statements
-- References in XML Doc Comments
+- References in XML doc comments
+- Region directives inside methods
+- Partial modules and partial interfaces
 - Compiler-as-a-service (Roslyn) 
 - Open Source Compiler (Roslyn) written in VB (previous in C++)
 
