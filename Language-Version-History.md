@@ -2,6 +2,16 @@ Features Added in VB Language Versions
 ====================
 
 *NOTE:* See how to [specify the language version for your project here](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/configure-language-version)
+# VB 14.0 (Visual Studio 2015)
+- Null-Propagating Operator (?. operator)
+- NameOf
+- String Interpolation
+- Multiline String Literals
+- Readonly Auto-properties
+- Comments in multiline statements
+- References in XML Doc Comments
+- Compiler-as-a-service (Roslyn) 
+- Open Source Compiler (Roslyn) written in VB (previous in C++)
 
 # VB 15.0 (Visual Studio 2017)
 - [Tuples](https://github.com/dotnet/roslyn/blob/master/docs/features/tuples.md)
